@@ -22,8 +22,8 @@ This is a solution to the [Project tracking intro component challenge on Fronten
 
 ### Links
 
-- Solution URL: [Solution]()
-- Live Site URL: [Live Site]()
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/responsive-project-tracking-intro-html-css-and-javascript-EVYUEIpA_v)
+- Live Site URL: [Live Site](https://ahmed-elgammal-900.github.io/Project-Tracking-Intro/)
 
 ## Author
 
